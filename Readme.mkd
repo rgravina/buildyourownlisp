@@ -1,0 +1,5 @@
+# Build Your Own Lisp
+
+The book [Build Your Own Lisp](http://www.buildyourownlisp.com/) covers the implementation of a Lisp interpreter in C.
+
+This repository is my work through the book. For the most part the code should be similar but I may change a few things in the code, so please refer to the book site for the original. This is not meant to be used for production code.
