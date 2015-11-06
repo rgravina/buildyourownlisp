@@ -10,5 +10,5 @@ Requires GNU readline.
 
 Compile with:
 ```
-cc -std=c99 -Wall prompt.c -lreadline -o prompt
+cc -std=c99 -Wall parsing.c mpc.c -lreadline -o parsing
 ```
